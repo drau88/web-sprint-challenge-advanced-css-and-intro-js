@@ -22,11 +22,25 @@ Commit your code regularly and meaningfully.
 
 Please answer the following questions below, you may edit the readme file to include your answers below the question.
 
-1. How would you describe acessibility on the web to someone new to programming?
+1. How would you describe accessibility on the web to someone new to programming?
+
+Accessibility describes the extent to which any user can interact successfully with any given webpage. Development with accessibility in mind is accomplished by ensuring that a web document is usable by as many people as possible, including those that may have disabilities such as visual impairments.
+
 2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+Websites can be made more accessible with development techniques such as using the most semantic markup possible, allowing users to control and modify the size of fonts and adding keyboard navigation functionality. Additionally, developers can increase accessibility by making effective use of image descriptors and ensuring the website's compatibility with screen-reading software to the greatest extent possible. 
+
 3. How would you explain the concept of a variable to someone new to programming?
+
+Much like in traditional mathematics, variables in programming are used to contain or act as a placeholder for data. Once a variable is associated with some form of data, it can be used in and by other parts of a program to accomplish the developers' goals.
+
 4. What is the purpose of using functions in code?
+
+Functions serve the important purpose of creating a bundled set of repeatable programming instructions in a single place, which allows a developer to make frequent use of those methods without repeating them every time they need to occur within the program. This significantly improves the readability of the the developer's code by preventing the need for repeated or redundant coding elements.
+
 5. How do you access a key inside of an object inside of an array?
+
+Accessing a key within an object which is also within an array can be done by referencing the object's index position within the array and then the key within the object. For example, a key of "name" within an object called "user" at the 0th position in an array called "userArray" might be done using userArray[0].name. This points to the key of "name" within the object of "user" at the 0th index of the array.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
